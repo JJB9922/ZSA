@@ -3,7 +3,7 @@
 
 [x] list
 
-[ ] stack
+[x] stack
 
 [ ] queue
 
