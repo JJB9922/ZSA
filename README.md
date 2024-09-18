@@ -2,6 +2,7 @@
 ### DSA in Zig
 
 [x] list
+
 [ ] stack
 [ ] queue
 [ ] hash table
