@@ -5,7 +5,7 @@
 
 [x] stack
 
-[ ] queue
+[x] queue
 
 [ ] hash table
 
