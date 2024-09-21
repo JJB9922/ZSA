@@ -58,6 +58,7 @@ fn Queue(comptime T: type) type {
 
 pub fn main() !void {
     const queue_i32 = Queue(i32);
+
     var queue = queue_i32{
         .size = 0,
         .head = null,

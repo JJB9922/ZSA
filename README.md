@@ -7,16 +7,5 @@
 
 [x] queue
 
-[ ] hash table
+[x] hash table
 
-[ ] array
-
-[ ] heap
-
-[ ] tree
-
-[ ] suffix tree
-
-[ ] graph
-
-[ ] r-tree
